@@ -2,6 +2,7 @@ Projeto em grupo realizado por:
 - [wladyrjusta](https://github.com/wladyrjusta)
 - [RaphaelMocellin](https://github.com/RaphaelMocellin)
 - [algoritmocpp](https://github.com/algoritmocpp)
+- [JFladsonSilva](https://github.com/JFladsonSilva)
 # :construction: README em construção ! :construction:
 <!-- Olá, Tryber!
 Esse é apenas um arquivo inicial para o README do seu projeto.
